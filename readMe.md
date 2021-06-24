@@ -17,8 +17,8 @@ This application does all its work in the command line. There are add, remove, r
 ## How to use
 
 As usual, first type node app.js in the command line. Next, after this statement you would need to type --help to find all of its features.
-*To add a note, we simply type node app.js add --title="(enter your title)" --body="(enter your note body)"
-*To remove a note, we simply type node app.js remove --title="(enter your title)"
-*To read a note, we simply type node app.js read --title="(enter your title)"
-*To list a note, we simply type node app.js list
-*To download a note, we simply type node app.js download --title="(enter your title)"
+* To add a note, we simply type node app.js add --title="(enter your title)" --body="(enter your note body)"
+* To remove a note, we simply type node app.js remove --title="(enter your title)"
+* To read a note, we simply type node app.js read --title="(enter your title)"
+* To list a note, we simply type node app.js list
+* To download a note, we simply type node app.js download --title="(enter your title)"
